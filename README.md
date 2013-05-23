@@ -18,9 +18,7 @@ Attributes
 TODO: List you cookbook attributes here.
 
 #### phpqatools::default
-default["phpqatools"]["install_path"] = "/opt/phpqatools"
-default["phpqatools"]["git"]["repository"] = "https://github.com/streamlinesocial/phpqatools.git"
-default["phpqatools"]["git"]["reference"] = "v1.0.0"
+
 <table>
   <tr>
     <th>Key</th>
